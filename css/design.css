@@ -1,0 +1,9 @@
+ul{
+	background-color: currentColor;
+	font-weight: bold;
+}
+
+ul li{
+	color: black;
+    font-size: xx-large;
+}
